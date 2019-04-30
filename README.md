@@ -1,4 +1,4 @@
-# chemnote
+# SMCchemnote
 chem note from smc 
 
 This project is for those who are attending SMC 
