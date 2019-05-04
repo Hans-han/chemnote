@@ -1,7 +1,7 @@
 # SMCchemnote
 chem note from smc 
 
-This project is for those who are attending SMC 
+This project is for those who are interesting in chemistry learning 
 
 served as a pre-study material 
 
